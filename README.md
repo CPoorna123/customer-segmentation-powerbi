@@ -74,3 +74,11 @@ Analyzed products with the highest sales volume.
 Chinthapoodi Poorna Chandra
 # customer-segmentation-powerbi
 Customer Segmentation & Purchase Behavior Analysis using SQL and Power BI
+
+## Contact
+
+If you would like to discuss this project or opportunities in data analytics:
+
+Email: cpoorna964@gmail.com  
+LinkedIn: https://www.linkedin.com/in/c-poorna-b68aa0356  
+GitHub: https://github.com/CPoorna123
